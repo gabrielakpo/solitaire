@@ -1,0 +1,1 @@
+# Solitaire : icons folder init

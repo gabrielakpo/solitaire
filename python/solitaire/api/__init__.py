@@ -1,0 +1,1 @@
+from .solitaire import Solitaire
